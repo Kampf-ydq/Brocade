@@ -7,10 +7,10 @@
 完成对敌方装甲（蓝色、红色）的识别，发送识别坐标，实现自动瞄准射击。
 
 <div align=center><img src="/RoboMaster/ROBO-03.jpg" /></div>
-<div align=center><img src="/RoboMaster/ROBO-02.jpeg" width="600"/></div>
+<div align=center><img src="/RoboMaster/ROBO-02.jpeg"/></div>
 <div align=center><img src="/RoboMaster/ROBO-01.jpg" /></div>
 <div align=center><img src="/RoboMaster/ROBO-04.jpg" /></div>
     识别效果图、分析图
-<div align=center><img src="/RoboMaster/ROBO-05.png" width="300"/></div>
-<div align=center><img src="/RoboMaster/ROBO-06.png" width="300"/></div>
-<div align=center><img src="/RoboMaster/ROBO-07.png" width="300"/></div>
+<div align=center><img src="/RoboMaster/ROBO-05.png"/></div>
+<div align=center><img src="/RoboMaster/ROBO-06.png"/></div>
+<div align=center><img src="/RoboMaster/ROBO-07.jpg"/></div>
